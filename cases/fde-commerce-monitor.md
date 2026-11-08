@@ -43,4 +43,4 @@
 
 ## 项目来源
 
-查看我的 GitHub Fork：https://github.com/q1zero/douyin-monitor-system
+查看我的 GitHub 仓库：https://github.com/q1zero/douyin-live-monitor
